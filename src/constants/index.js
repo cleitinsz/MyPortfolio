@@ -154,7 +154,7 @@ const projects = [
 			},
 		],
 		image: studyhub,
-		source_code_link: 'https://github.com/cleitinsz/GrupoDeEstudos',
+		source_code_link: 'https://github.com/cleitinsz/studyhub-front',
 	},
 	{
 		name: 'Habits',
